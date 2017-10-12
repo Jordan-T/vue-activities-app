@@ -28,3 +28,31 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Todo for this app
+
+### Pages
+
+- [ ] Base Template
+- [ ] Home
+- [ ] Activities
+  - [ ] List
+  - [ ] One activity
+- [ ] Checkout
+  - [ ] Cart
+  - [ ] Buy
+- [ ] User page
+  - [ ] Edit information
+  - [ ] Last orders
+- [ ] Messages
+- [ ] Admin page
+  - [ ] Add / Edit / Remove activity
+  - [ ] Add / Edit / Remove user
+
+### Functionality
+
+- [ ] Vuex
+- [ ] API
+- [ ] Capacity of temporary reserved activity (for checkout)
+- [ ] Add offline support
+- [ ] socket.io (messages, notifications, app places live)
